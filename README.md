@@ -1,1 +1,1 @@
-## Repository of Ajou University's data structure and algorithm understanding class.
+## Ajou University's data structure and algorithm understanding class
